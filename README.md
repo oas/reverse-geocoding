@@ -3,7 +3,7 @@
 # Elasticsearch
 
 ## Mapping
-```json
+```js
 {
   mappings: {
     cities: {
