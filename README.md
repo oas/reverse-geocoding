@@ -3,6 +3,7 @@
 # Elasticsearch
 
 ## Mapping
+The current version stores all cities worldwide. For this purpose, the following information is stored: the name of the city, the name of the state, the name of the country and the bounding box defined by a polygon:
 ```js
 {
   mappings: {
